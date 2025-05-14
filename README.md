@@ -2,6 +2,9 @@
 Detection and Classification of the streaks and stars are satelite images
 ![preprocessed-image](./src/preprocessed_image.png)
 
+[Problem PDF](./src/problem.pdf)
+
+
 ### Unsigned int16 to Unsigned int8 conversion
 Advantages :
 - this conversion saves computation cost for better efficient model deployment
